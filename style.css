@@ -1,0 +1,57 @@
+.heading
+{
+    width:100%;
+    text-align:left;
+    color: crimson;
+    font-family: fantasy;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+.heading h3{
+    display:inline;
+    color: darkcyan;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid yellowgreen;
+    color: palevioletred;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.big_image
+{
+    width: 100%;
+}
+
+#start , #status
+{
+    font-size:22px;
+}
+
+h4
+{
+    background-color:lawngreen;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog{
+    width:90%;
+}
+
+.instruction_image
+{
+    display:inline-block;
+    width:45%;
+}
+
+video
+{
+    background: url('game_console.png');
+    background-size:cover;
+    background-position:center;
+    padding:25px;
+}
